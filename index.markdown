@@ -14,8 +14,9 @@ title:
       Operations Management, Quantitative Methods and Information Systems <br>
       Indian Institute of Management Udaipur <br><br>
       Udaipur, Rajasthan, India - 313001<br><br>
-      <strong>Email</strong>: <a href="mailto:priyanshi.chandra@iimu.ac.in">priyanshi.chandra@iimu.ac.in</a><br><br>
-      <a href="https://drive.google.com/file/d/11IDuMNznJP1RjYiUbMZmYBOf5dBqAQ4B/view?usp=sharing">CV</a>
+      <strong>Email</strong>: <a href="mailto:priyanshi.chandra@iimu.ac.in">priyanshi.chandra@iimu.ac.in</a>
+     <br><br>
+      <a href="https://drive.google.com/file/d/11IDuMNznJP1RjYiUbMZmYBOf5dBqAQ4B/view?usp=sharing">CV</a> | <a href="https://www.linkedin.com/in/priyanshi-chandra/">Linkedin</a>
     </p>
   </div>
 
