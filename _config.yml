@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Priyanshi Chandra
-email: priyanshi.chandra@iimu.ac.in
-description: Research Assistant at IIM Udaipur, India
+email: priyanshi.chandra@usi.ch
+description: PhD Student at Università della Svizzera italiana
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
