@@ -16,7 +16,7 @@ title:
       Lugano, Switzerland<br><br>
       <strong>Email</strong>: <a href="mailto:priyanshi.chandra@usi.ch">priyanshi.chandra@usi.ch</a>
      <br><br>
-      <a href="https://drive.google.com/file/d/11IDuMNznJP1RjYiUbMZmYBOf5dBqAQ4B/view?usp=sharing">CV</a> | 
+      <a href="/assets/files/cv.pdf" target="_blank">CV</a>  | 
       <a href="https://www.linkedin.com/in/priyanshi-chandra/">LinkedIn</a>  | <a href="#Research">Research</a>
       
     </p>
@@ -26,11 +26,14 @@ title:
 
 
   <!-- Right side: Profile Image -->
-  <div style="flex: 0 0 auto; text-align: right; margin-left: 20px;">
+  <div style="flex: 0 0 auto; text-align: right; margin-left: 20px; margin-right: 30px;">
     <img src="/assets/images/profile.jpeg" alt="Profile Picture" style="max-width: 150px">
   </div>
-</div>
 
+</div>
+<br>
+<hr style="border: 0.5px solid #ccc;">
+<br>
 <div class="about-me">
 <h3>About Me</h3>
 <p> I am a PhD student at the Faculty of Informatics, Università della Svizzera italiana, supervised by <a href="https://dsulem.github.io/">Prof. Déborah Sulem </a> and <a href="https://search.usi.ch/en/people/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta">Prof. Antonietta Mira</a>.<br><br>
@@ -41,9 +44,12 @@ I completed my Integrated M.Sc. in Mathematics from NIT Surat, India in 2024 whe
 </p>
 </div>
 
-
+<br>
+<hr style="border: 0.5px solid #ccc;">
+<br>
 <div id="Research">
 <h3>Research</h3>
+
 
 <p>
 <b>Research interests:</b><br>
@@ -52,8 +58,8 @@ I am also interested in statistical learning theory and generalisation bounds fo
 </p>
 
 <p>
-<b>Preprints:</b>
-
+<b>Preprints:</b><br>
+<i>Coming soon</i>
 </p>
 </div>
 
