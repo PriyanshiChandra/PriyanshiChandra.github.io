@@ -36,7 +36,7 @@ title:
 
 
   <!-- Right side: Profile Image -->
-  <div style="flex: 0 0 auto; text-align: right; margin-left: 20px; margin-right: 30px;">
+  <div style="flex: 0 0 auto; text-align: right; margin-left: 0px; margin-right: 0px;">
     <img src="/assets/images/profile.jpeg" alt="Profile Picture" style="max-width: 150px">
   </div>
 
@@ -47,10 +47,13 @@ title:
 <div class="about-me" id="About">
 <h3>About Me</h3>
 <p> I am a PhD student at the Faculty of Informatics, Università della Svizzera italiana, supervised by <a href="https://dsulem.github.io/">Prof. Déborah Sulem </a> and <a href="https://search.usi.ch/en/people/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta">Prof. Antonietta Mira</a>.<br><br>
-Previously, I was a research assistant at <a href="https://www.iimu.ac.in/">IIM Udaipur</a> working in Operations Management, particularly on stochastic inventory control with Dr. Achal Goyal and Dr. Govind Kumawat. 
-From Jan 2024 to May 2024, I was a visiting research assistant at the Zuse Institute Berlin (ZIB) in<a href="https://iol.zib.de/"> IOL group </a> where I worked with <a href="https://damaru2.github.io/">Dr. David Martínez-Rubio</a>. In summer 2023, funded by a DAAD-WISE scholarship, I interned at the Institute for Mathematical Stochastics, TU Braunschweig with <a href="https://www.tu-braunschweig.de/en/stochastik/team/muecke">Prof. Nicole Mücke</a>. Additionally, I have been mentored by <a href="https://www.isical.ac.in/~akghosh/">Prof. Anil Kumar Ghosh</a> (Indian Statistical Institute, Kolkata) after being awarded an SRFP fellowship in 2022. <br><br>
+I completed my Integrated M.Sc. in Mathematics from NIT Surat, India in 2024 where I graduated with a gold medal. I wrote my master's thesis on <i><a href="https://drive.google.com/file/d/1N_BbozLmIdUVlAt2iFGTADq7oqbPfekX/view?usp=sharing">Uniformly Convex Regularisers in High-dimensional Optimisation</a></i>, which I developed during an internship at the Zuse Institute Berlin (ZIB).<br><br>
 
-I completed my Integrated M.Sc. in Mathematics from NIT Surat, India in 2024 where I graduated with a gold medal. 
+Previously, I worked as a research assistant at IIM Udaipur on stochastic inventory management and interned at the Institute for Mathematical Stochastics, TU Braunschweig, supported by a DAAD-WISE scholarship.
+<!-- <br><br>
+Prior to this, I was a research assistant at <a href="https://www.iimu.ac.in/">IIM Udaipur</a> working in Operations Management, particularly on stochastic inventory management with Dr. Achal Goyal and Dr. Govind Kumawat. <br><br> From Jan 2024 to May 2024, I was a visiting research assistant at the Zuse Institute Berlin (ZIB) in<a href="https://iol.zib.de/"> IOL group </a> where I worked with <a href="https://damaru2.github.io/">Dr. David Martínez-Rubio</a>. In summer 2023, funded by a DAAD-WISE scholarship, I interned at the Institute for Mathematical Stochastics, TU Braunschweig with <a href="https://www.tu-braunschweig.de/en/stochastik/team/muecke">Prof. Nicole Mücke</a>. Additionally, I have been mentored by <a href="https://www.isical.ac.in/~akghosh/">Prof. Anil Kumar Ghosh</a> (Indian Statistical Institute, Kolkata) after being awarded an SRFP fellowship in 2022. <br><br> -->
+
+
 </p>
 </div>
 
@@ -63,14 +66,15 @@ I completed my Integrated M.Sc. in Mathematics from NIT Surat, India in 2024 whe
 
 <p>
 <b>Research interests:</b><br>
-My research focuses on causal inference using information imbalance. I am particularly interested in understanding how information asymmetry affects causal relationships and developing methods to improve causal estimation in complex systems. <br>
-I am also interested in statistical learning theory and generalisation bounds for distribution shifts.
+My research explores causal inference, focusing on how information asymmetry impacts cause-and-effect relationships, with the goal of improving causal estimation in complex systems like healthcare and economics. <br>
+I am also interested in statistical learning theory and generalization bounds for distribution shifts.
 </p>
 </div>
 
-<p>
+<!-- <p>
 <div id= "Publications"><b>Publications:</b><br>
 <i>Coming soon</i></div>
+</p> -->
 
 
 
