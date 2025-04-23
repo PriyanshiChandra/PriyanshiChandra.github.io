@@ -47,7 +47,7 @@ title:
 <div class="about-me" id="About">
 <h3>About Me</h3>
 <p> I am a PhD student at the Faculty of Informatics, Università della Svizzera italiana, supervised by <a href="https://dsulem.github.io/">Prof. Déborah Sulem </a> and <a href="https://search.usi.ch/en/people/f8960de6d60dd08a79b6c1eb20b7442b/mira-antonietta">Prof. Antonietta Mira</a>.<br><br>
-I completed my Integrated M.Sc. in Mathematics from NIT Surat, India in 2024 where I graduated with a gold medal. I wrote my master's thesis on <i><a href="https://drive.google.com/file/d/1N_BbozLmIdUVlAt2iFGTADq7oqbPfekX/view?usp=sharing">Uniformly Convex Regularisers in High-dimensional Optimisation</a></i>, which I developed during an internship at the Zuse Institute Berlin (ZIB).<br><br>
+I completed my Integrated M.Sc. in Mathematics from NIT Surat, India in 2024 where I graduated with a gold medal. I wrote my master's thesis on <i><a href="https://drive.google.com/file/d/1N_BbozLmIdUVlAt2iFGTADq7oqbPfekX/view?usp=sharing">Uniformly Convex Regularisers in High-dimensional Optimisation</a></i>, which I developed during an internship at the IOL Lab, Zuse Institute Berlin (ZIB).<br><br>
 
 Previously, I worked as a research assistant at IIM Udaipur on stochastic inventory management and interned at the Institute for Mathematical Stochastics, TU Braunschweig, supported by a DAAD-WISE scholarship.
 <!-- <br><br>
