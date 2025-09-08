@@ -66,14 +66,14 @@ Prior to this, I was a research assistant at <a href="https://www.iimu.ac.in/">I
 
 <p>
 <b>Research interests:</b><br><br>
-I am currently working on nearest neighbour based statistics or rank based statistics of association. In particular, I am interested in studying the probability distrbution of random nearest neighbour graphs. <br>
+I am currently working on nearest neighbour based statistics or rank based statistics of association. In particular, I am interested in studying the probability distribution of random nearest neighbour graphs. <br><br>
 Apart from this, I am also interested in statistical learning theory and generalization bounds for distribution shifts.
 </p>
 </div>
-
+<br>
 <p>
 <div id= "Publications"><b>Preprints:</b><br><br>
-<li> <a href="https://arxiv.org/pdf/2504.19043">Selecting Optimal Candidate Profiles in Adversarial Environments Using Conjoint Analysis and Machine Learning.</a>  Connor T. Jerzak, Priyanshi Chandra, Rishi Hazra (2025)</li>
+<li> <a href="https://arxiv.org/pdf/2504.19043">Selecting Optimal Candidate Profiles in Adversarial Environments Using Conjoint Analysis and Machine Learning.</a>  Connor T. Jerzak, Priyanshi Chandra, Rishi Hazra (2025).</li>
 </div>
 </p>
 
