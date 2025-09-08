@@ -61,13 +61,31 @@ Prior to this, I was a research assistant at <a href="https://www.iimu.ac.in/">I
 <hr style="border: 0.5px solid #ccc;">
 <br>
 <div id="Research">
-<h3>Research</h3>
+<h3>Research</h3> <br>
 
 
 <p>
-<b>Research interests:</b><br>
-My research explores causal inference, focusing on how information asymmetry impacts cause-and-effect relationships, with the goal of improving causal estimation in complex systems like healthcare and economics. <br>
-I am also interested in statistical learning theory and generalization bounds for distribution shifts.
+<b>Research interests:</b><br><br>
+I am currently working on nearest neighbour based statistics or rank based statistics of association. In particular, I am interested in studying the probability distrbution of random nearest neighbour graphs. <br>
+Apart from this, I am also interested in statistical learning theory and generalization bounds for distribution shifts.
+</p>
+</div>
+
+<p>
+<div id= "Publications"><b>Preprints:</b><br><br>
+<li> <a href="https://arxiv.org/pdf/2504.19043">Selecting Optimal Candidate Profiles in Adversarial Environments Using Conjoint Analysis and Machine Learning.</a>  Connor T. Jerzak, Priyanshi Chandra, Rishi Hazra (2025)</li>
+</div>
+</p>
+
+<br>
+<hr style="border: 0.5px solid #ccc;">
+<br>
+<div id="Teaching">
+<h3>Teaching:</h3>
+
+
+<p>
+<li> Teaching Assistant for the course <b><a href="https://search.usi.ch/courses/35275479/analysis-of-social-networks">Analysis of Social Networks</a></b> (Fall 2025)</li>
 </p>
 </div>
 
