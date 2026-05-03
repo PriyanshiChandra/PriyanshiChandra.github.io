@@ -66,14 +66,26 @@ Prior to this, I was a research assistant at <a href="https://www.iimu.ac.in/">I
 
 <p>
 <b>Research interests:</b><br><br>
-I am currently working on nearest neighbour based statistics or rank based statistics of association. In particular, I am interested in studying the probability distribution of random nearest neighbour graphs. <br><br>
+I am currently working on nearest neighbour based statistics or rank based statistics of association. In particular, I am interested in studying the asymptotic distribution of such coefficients. <br><br>
 Apart from this, I am also interested in statistical learning theory and generalization bounds for distribution shifts.
 </p>
 </div>
 <br>
 <p>
-<div id= "Publications"><b>Preprints:</b><br><br>
-<li> <a href="https://arxiv.org/pdf/2504.19043">Selecting Optimal Candidate Profiles in Adversarial Environments Using Conjoint Analysis and Machine Learning.</a>  Connor T. Jerzak, Priyanshi Chandra, Rishi Hazra (2025).</li>
+
+<div id="Publications">
+  <b>Publications:</b><br><br>
+
+  <li>
+    <a href="https://arxiv.org/pdf/2504.19043">
+      MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification
+    </a> <br>
+    Connor T. Jerzak, Priyanshi Chandra, Rishi Hazra.<br> <b>ICML 2026, </b>
+    <i>43 <sup>rd</sup> International Conference on Machine Learning</i>
+  </li>
+<br><br>
+<b>Preprints:</b><br><br>
+<i>More soon..</i>
 </div>
 </p>
 
@@ -85,8 +97,9 @@ Apart from this, I am also interested in statistical learning theory and general
 
 
 <p>Teaching Assistant for 
-<li> <b><a href="https://search.usi.ch/courses/35275479/analysis-of-social-networks">Analysis of Social Networks</a></b> (Fall 2025)</li>
-<li> <b><a href="https://search.usi.ch/courses/35275108/optimization-methods">Optimization Methods </a></b> (Spring 2026)</li>
+<li> <b><a href="https://search.usi.ch/courses/35275108/optimization-methods">Optimization Methods </a></b> (Spring 2026, USI)</li>
+<li> <b><a href="https://search.usi.ch/courses/35275479/analysis-of-social-networks">Analysis of Social Networks</a></b> (Fall 2025, USI)</li>
+
 </p>
 </div>
 
