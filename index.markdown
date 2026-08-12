@@ -97,7 +97,7 @@ Apart from this, I am also interested in statistical learning theory and general
 
 
 <p>Teaching Assistant for 
-<li> <b> <a href=""> Introdution to Stochastic Methods </a></b> (Fall 2026, USI) </li>
+<li> <b> <a href="https://search.usi.ch/courses/35279057/introduction-to-stochastic-methods"> Introdution to Stochastic Methods </a></b> (Fall 2026, USI) </li>
 <li> <b><a href="https://search.usi.ch/courses/35275108/optimization-methods">Optimization Methods </a></b> (Spring 2026, USI)</li>
 <li> <b><a href="https://search.usi.ch/courses/35275479/analysis-of-social-networks">Analysis of Social Networks</a></b> (Fall 2025, USI)</li>
 
