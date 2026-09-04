@@ -64,10 +64,10 @@ Prior to this, I was a research assistant at <a href="https://www.iimu.ac.in/">I
 <h3>News</h3>
 
 <p>
-  <b>September 2026:</b> 🏆 Received the <b>Poster with Most Scientific Novelty</b> award at the <i>European Meeting of Statisticians 2026</i>.
+  <b>August 2026:</b> 🏆 Received the <b>Poster with Most Scientific Novelty</b> award at the <i>European Meeting of Statisticians 2026</i>.
   <br><br>
 
-<b>July 2026:</b> 📄 Our paper <i>MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification</i> was accepted to <b>ICML 2026</b>.
+<b>April 2026:</b> 📄 Our paper <i>MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification</i> was accepted to <b>ICML 2026</b>.
 
 </p>
 
