@@ -60,8 +60,24 @@ Prior to this, I was a research assistant at <a href="https://www.iimu.ac.in/">I
 <br>
 <hr style="border: 0.5px solid #ccc;">
 <br>
+<div id="News">
+<h3>News</h3>
+
+<p>
+  <b>September 2026:</b> 🏆 Received the <b>Poster with Most Scientific Novelty</b> award at the <i>European Meeting of Statisticians 2026</i>.
+  <br><br>
+
+<b>July 2026:</b> 📄 Our paper <i>MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification</i> was accepted to <b>ICML 2026</b>.
+
+</p>
+
+</div>
+<br>
+
+<hr style="border: 0.5px solid #ccc;">
+<br>
 <div id="Research">
-<h3>Research</h3> <br>
+<h3>Research</h3> 
 
 
 <p>
@@ -74,7 +90,7 @@ Apart from this, I am also interested in statistical learning theory and general
 <p>
 
 <div id="Publications">
-  <b>Publications:</b><br><br>
+  <h4>Publications:</h4>
   An updated list can be found here: <a href="https://scholar.google.com/citations?user=VBS3J6IAAAAJ&hl=en">Google Scholar </a> <br><br>
   <li>
     <a href="https://arxiv.org/pdf/2504.19043">
