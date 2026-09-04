@@ -75,7 +75,7 @@ Apart from this, I am also interested in statistical learning theory and general
 
 <div id="Publications">
   <b>Publications:</b><br><br>
-
+  An updated list can be found here: <a href="https://scholar.google.com/citations?user=VBS3J6IAAAAJ&hl=en">Google Scholar </a> <br><br>
   <li>
     <a href="https://arxiv.org/pdf/2504.19043">
       MiniMax Learning of Interpretable Factored Stochastic Policies from Conjoint Data, with Uncertainty Quantification
