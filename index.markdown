@@ -64,6 +64,9 @@ Prior to this, I was a research assistant at <a href="https://www.iimu.ac.in/">I
 <h3>News</h3>
 
 <p>
+  <b>October 2026:</b> 🏆 With Lorenzo Varese and Michele Inchingolo, won the award for the <b>SIB &amp; SPHN</b> challenge at <a href="https://neuralwave.ch/#/"><i>Neural Wave</i></a>. See the project on <a href="https://github.com/neural-wave/ch-ScientificShrimps">GitHub</a>.
+  <br><br>
+
   <b>August 2026:</b> 🏆 Received the <b>Poster with Most Scientific Novelty</b> award at the <i>European Meeting of Statisticians 2026</i>.
   <br><br>
 
